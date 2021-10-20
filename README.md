@@ -6,3 +6,4 @@ Esto es el primer commit
 Segundo commit
 
 Cambio en la rama **pruebas**  
+Otros cambios en la misma rama **pruebas**  
