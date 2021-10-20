@@ -1,4 +1,4 @@
-# CS250-Git-Ejercicio1
+# CS250-Git-Ejercicio1: Repo de ejemplo
 Ejercicio 1 de Git en el curso Ciberseguridad 250
 
 
