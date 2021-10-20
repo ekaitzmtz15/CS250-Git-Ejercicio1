@@ -2,7 +2,7 @@
 Ejercicio 1 de Git en el curso Ciberseguridad 250
 
 
-Esto es el primer commit
+Esto es el primer commit, todo perfecto hasta ahora
 Segundo commit
 
 Cambio en la rama **pruebas**  
